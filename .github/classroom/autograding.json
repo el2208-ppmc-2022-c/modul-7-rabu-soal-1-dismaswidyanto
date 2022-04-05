@@ -95,7 +95,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "2\r\n12\r\n2\r\n34\r\n2\r\n0\r\n2\r\n56\r\n2\r\n-78\r\n1\r\n99",
-      "output": "Angka Paling Depan : -34\r\nAngka Paling Belakang : -78",
+      "output": "Angka Paling Depan : 34\r\nAngka Paling Belakang : -78",
       "comparison": "included",
       "timeout": 1,
       "points": 10
