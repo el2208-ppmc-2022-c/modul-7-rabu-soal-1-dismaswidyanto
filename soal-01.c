@@ -83,7 +83,7 @@ int main()
 		}
 	} while (m != 99);
 
-	printf("Angka Paling Depan : %d \n", q->front->key);
+	printf("Angka Paling Depan : %d\n", q->front->key);
 	printf("Angka Paling Belakang : %d", q->rear->key);
 	return 0;
 }
